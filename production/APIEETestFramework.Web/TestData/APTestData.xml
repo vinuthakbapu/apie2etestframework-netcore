@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AdminPortal>
+  
+  <Environment>Staging</Environment>
+
+  <SIT>
+    
+    <mutation>https://gorest.co.in/public-api/users</mutation>
+  
+  </SIT>
+  
+  <Staging>
+   
+    <mutation>https://gorest.co.in/public-api/users</mutation>
+    
+  </Staging>
+
+   <CustomerID></CustomerID>
+   <EnumID></EnumID>
+    
+    <AHU></AHU>
+    <VAV></VAV>
+    <EM></EM>
+    <SiteId></SiteId>
+    <ModelID></ModelID>
+  
+</AdminPortal>
